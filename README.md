@@ -1,8 +1,8 @@
-##instalação
+# Instalação
    npm install -g sass
 
 
-##Verificar se a instalação obteve êxito
+# Verificar se a instalação obteve êxito
    sass --version
 
 # Processamento do Sass para web
