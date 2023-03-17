@@ -8,5 +8,5 @@
 # Processamento do Sass para web
    sass --watch sass/style.sass:css/style.css
 
-# Instalação Global para uso em React
+# Instalação Global para uso em React+vite
 npm install -D sass
